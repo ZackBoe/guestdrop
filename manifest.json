@@ -1,9 +1,9 @@
 {
-  "name": "Guestdrop",
+  "name": "__MSG_ExtName__",
   "version": "2.0.0",
   "manifest_version": 2,
-  "description": "Browse Massdrop without an account.",
-  "homepage_url": "http://zackboehm.com/projects/guestdrop",
+  "description": "__MSG_ExtDesc__",
+  "homepage_url": "https://zackboe.hm/p/guestdrop",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
