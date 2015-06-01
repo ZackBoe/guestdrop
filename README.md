@@ -1,16 +1,12 @@
 guestdrop
 =========
+Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/guestdrop/ackkhnnaaahnjfamaeagmllhhkekcgil).
 
-Chrome extension to browse Massdrop without an account
+Chrome extension to browse Massdrop purchase pages without an account or logging in.
 
-First Chrome extension. Pleasently pleased with how easy it was.
+Automatically adds ?mode=guest_open to links opened without it.
 
-I'll probably throw this up on the Chrome store later, but for now you can add it yourself.
+_Massdrop could at anytime make changes that render this totally useless._
 
-Nothing special: checks if mode=guest_open is on any Massdrop urls you visit, adds and reloads if it's not.
 
-- Open up the extensions page (chrome://extensions/)
-- If it's not already checked, hit the 'Developer Mode' box
-- Load this repo's archive as an unpacked extension. 
-- You should be good to go!
-- If not, check out [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted#unpacked)
+
